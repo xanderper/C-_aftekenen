@@ -1,0 +1,313 @@
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/CoverletSourceRootsMapping
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/MemoryBusiness.deps.json
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/MemoryBusiness.runtimeconfig.json
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/MemoryBusiness
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/NUnit3.TestAdapter.dll
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/NUnit3.TestAdapter.pdb
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/nunit.engine.dll
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/nunit.engine.api.dll
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/nunit.engine.core.dll
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/testcentric.engine.metadata.dll
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/MemoryTesten.deps.json
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/MemoryTesten.runtimeconfig.json
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/MemoryTesten.dll
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/MemoryTesten.pdb
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/Microsoft.TestPlatform.CoreUtilities.dll
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/Microsoft.TestPlatform.PlatformAbstractions.dll
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/Microsoft.TestPlatform.CommunicationUtilities.dll
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/Microsoft.TestPlatform.CrossPlatEngine.dll
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/Microsoft.TestPlatform.Utilities.dll
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/Microsoft.VisualStudio.TestPlatform.Common.dll
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/testhost.dll
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/NuGet.Frameworks.dll
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/nunit.framework.dll
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/MemoryBusiness.dll
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/MemoryBusiness.pdb
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/obj/Debug/net7.0/MemoryTesten.csproj.AssemblyReference.cache
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/obj/Debug/net7.0/MemoryTesten.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/obj/Debug/net7.0/MemoryTesten.AssemblyInfoInputs.cache
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/obj/Debug/net7.0/MemoryTesten.AssemblyInfo.cs
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/obj/Debug/net7.0/MemoryTesten.csproj.CoreCompileInputs.cache
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/obj/Debug/net7.0/MemoryTesten.csproj.CopyComplete
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/obj/Debug/net7.0/MemoryTesten.dll
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/obj/Debug/net7.0/refint/MemoryTesten.dll
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/obj/Debug/net7.0/MemoryTesten.pdb
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/obj/Debug/net7.0/MemoryTesten.genruntimeconfig.cache
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/obj/Debug/net7.0/ref/MemoryTesten.dll
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/CoverletSourceRootsMapping
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/testhost.dll
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/NUnit3.TestAdapter.dll
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/NUnit3.TestAdapter.pdb
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/nunit.engine.dll
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/nunit.engine.api.dll
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/nunit.engine.core.dll
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/testcentric.engine.metadata.dll
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/MemoryBusiness.deps.json
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/MemoryBusiness.runtimeconfig.json
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/MemoryBusiness.exe
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/testhost.exe
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/MemoryTesten.deps.json
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/MemoryTesten.runtimeconfig.json
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/MemoryTesten.dll
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/MemoryTesten.pdb
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/Microsoft.TestPlatform.CoreUtilities.dll
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/Microsoft.TestPlatform.PlatformAbstractions.dll
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/Microsoft.TestPlatform.CommunicationUtilities.dll
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/Microsoft.TestPlatform.CrossPlatEngine.dll
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/Microsoft.TestPlatform.Utilities.dll
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/Microsoft.VisualStudio.TestPlatform.Common.dll
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/Newtonsoft.Json.dll
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/NuGet.Frameworks.dll
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/nunit.framework.dll
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/MemoryBusiness.dll
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/MemoryBusiness.pdb
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/obj/Debug/net7.0/MemoryTesten.csproj.AssemblyReference.cache
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/obj/Debug/net7.0/MemoryTesten.GeneratedMSBuildEditorConfig.editorconfig
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/obj/Debug/net7.0/MemoryTesten.AssemblyInfoInputs.cache
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/obj/Debug/net7.0/MemoryTesten.AssemblyInfo.cs
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/obj/Debug/net7.0/MemoryTesten.csproj.CoreCompileInputs.cache
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/obj/Debug/net7.0/MemoryTesten.csproj.CopyComplete
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/obj/Debug/net7.0/MemoryTesten.dll
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/obj/Debug/net7.0/refint/MemoryTesten.dll
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/obj/Debug/net7.0/MemoryTesten.pdb
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/obj/Debug/net7.0/MemoryTesten.genruntimeconfig.cache
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryTesten/obj/Debug/net7.0/ref/MemoryTesten.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/CoverletSourceRootsMapping
+/Users/xanderperlee/Downloads/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/NUnit3.TestAdapter.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/NUnit3.TestAdapter.pdb
+/Users/xanderperlee/Downloads/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/nunit.engine.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/nunit.engine.api.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/nunit.engine.core.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/testcentric.engine.metadata.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/MemoryBusiness.deps.json
+/Users/xanderperlee/Downloads/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/MemoryBusiness.runtimeconfig.json
+/Users/xanderperlee/Downloads/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/MemoryBusiness
+/Users/xanderperlee/Downloads/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/MemoryTesten.deps.json
+/Users/xanderperlee/Downloads/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/MemoryTesten.runtimeconfig.json
+/Users/xanderperlee/Downloads/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/MemoryTesten.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/MemoryTesten.pdb
+/Users/xanderperlee/Downloads/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/Microsoft.TestPlatform.CoreUtilities.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/Microsoft.TestPlatform.PlatformAbstractions.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/Microsoft.TestPlatform.CommunicationUtilities.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/Microsoft.TestPlatform.CrossPlatEngine.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/Microsoft.TestPlatform.Utilities.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/Microsoft.VisualStudio.TestPlatform.Common.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/testhost.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/NuGet.Frameworks.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/nunit.framework.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/MemoryBusiness.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/MemoryTesten/bin/Debug/net7.0/MemoryBusiness.pdb
+/Users/xanderperlee/Downloads/Afteken opdrachten/MemoryTesten/obj/Debug/net7.0/MemoryTesten.csproj.AssemblyReference.cache
+/Users/xanderperlee/Downloads/Afteken opdrachten/MemoryTesten/obj/Debug/net7.0/MemoryTesten.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xanderperlee/Downloads/Afteken opdrachten/MemoryTesten/obj/Debug/net7.0/MemoryTesten.AssemblyInfoInputs.cache
+/Users/xanderperlee/Downloads/Afteken opdrachten/MemoryTesten/obj/Debug/net7.0/MemoryTesten.AssemblyInfo.cs
+/Users/xanderperlee/Downloads/Afteken opdrachten/MemoryTesten/obj/Debug/net7.0/MemoryTesten.csproj.CoreCompileInputs.cache
+/Users/xanderperlee/Downloads/Afteken opdrachten/MemoryTesten/obj/Debug/net7.0/MemoryTesten.csproj.CopyComplete
+/Users/xanderperlee/Downloads/Afteken opdrachten/MemoryTesten/obj/Debug/net7.0/MemoryTesten.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/MemoryTesten/obj/Debug/net7.0/refint/MemoryTesten.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/MemoryTesten/obj/Debug/net7.0/MemoryTesten.pdb
+/Users/xanderperlee/Downloads/Afteken opdrachten/MemoryTesten/obj/Debug/net7.0/MemoryTesten.genruntimeconfig.cache
+/Users/xanderperlee/Downloads/Afteken opdrachten/MemoryTesten/obj/Debug/net7.0/ref/MemoryTesten.dll

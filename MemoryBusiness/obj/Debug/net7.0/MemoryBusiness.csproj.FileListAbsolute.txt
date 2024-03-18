@@ -1,0 +1,57 @@
+C:/Users/Tristen/OneDrive - Windesheim Office365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryBusiness/bin/Debug/net7.0/MemoryBusiness.exe
+C:/Users/Tristen/OneDrive - Windesheim Office365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryBusiness/bin/Debug/net7.0/MemoryBusiness.deps.json
+C:/Users/Tristen/OneDrive - Windesheim Office365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryBusiness/bin/Debug/net7.0/MemoryBusiness.runtimeconfig.json
+C:/Users/Tristen/OneDrive - Windesheim Office365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryBusiness/bin/Debug/net7.0/MemoryBusiness.dll
+C:/Users/Tristen/OneDrive - Windesheim Office365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryBusiness/bin/Debug/net7.0/MemoryBusiness.pdb
+C:/Users/Tristen/OneDrive - Windesheim Office365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryBusiness/obj/Debug/net7.0/MemoryBusiness.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Tristen/OneDrive - Windesheim Office365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryBusiness/obj/Debug/net7.0/MemoryBusiness.AssemblyInfoInputs.cache
+C:/Users/Tristen/OneDrive - Windesheim Office365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryBusiness/obj/Debug/net7.0/MemoryBusiness.AssemblyInfo.cs
+C:/Users/Tristen/OneDrive - Windesheim Office365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryBusiness/obj/Debug/net7.0/MemoryBusiness.csproj.CoreCompileInputs.cache
+C:/Users/Tristen/OneDrive - Windesheim Office365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryBusiness/obj/Debug/net7.0/MemoryBusiness.dll
+C:/Users/Tristen/OneDrive - Windesheim Office365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryBusiness/obj/Debug/net7.0/refint/MemoryBusiness.dll
+C:/Users/Tristen/OneDrive - Windesheim Office365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryBusiness/obj/Debug/net7.0/MemoryBusiness.pdb
+C:/Users/Tristen/OneDrive - Windesheim Office365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryBusiness/obj/Debug/net7.0/MemoryBusiness.genruntimeconfig.cache
+C:/Users/Tristen/OneDrive - Windesheim Office365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryBusiness/obj/Debug/net7.0/ref/MemoryBusiness.dll
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryBusiness/bin/Debug/net7.0/MemoryBusiness
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryBusiness/bin/Debug/net7.0/MemoryBusiness.deps.json
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryBusiness/bin/Debug/net7.0/MemoryBusiness.runtimeconfig.json
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryBusiness/bin/Debug/net7.0/MemoryBusiness.dll
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryBusiness/bin/Debug/net7.0/MemoryBusiness.pdb
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryBusiness/obj/Debug/net7.0/MemoryBusiness.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryBusiness/obj/Debug/net7.0/MemoryBusiness.AssemblyInfoInputs.cache
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryBusiness/obj/Debug/net7.0/MemoryBusiness.AssemblyInfo.cs
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryBusiness/obj/Debug/net7.0/MemoryBusiness.csproj.CoreCompileInputs.cache
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryBusiness/obj/Debug/net7.0/MemoryBusiness.dll
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryBusiness/obj/Debug/net7.0/refint/MemoryBusiness.dll
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryBusiness/obj/Debug/net7.0/MemoryBusiness.pdb
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryBusiness/obj/Debug/net7.0/MemoryBusiness.genruntimeconfig.cache
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryBusiness/obj/Debug/net7.0/ref/MemoryBusiness.dll
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryBusiness/bin/Debug/net7.0/MemoryBusiness.exe
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryBusiness/bin/Debug/net7.0/MemoryBusiness.deps.json
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryBusiness/bin/Debug/net7.0/MemoryBusiness.runtimeconfig.json
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryBusiness/bin/Debug/net7.0/MemoryBusiness.dll
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryBusiness/bin/Debug/net7.0/MemoryBusiness.pdb
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryBusiness/obj/Debug/net7.0/MemoryBusiness.csproj.AssemblyReference.cache
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryBusiness/obj/Debug/net7.0/MemoryBusiness.GeneratedMSBuildEditorConfig.editorconfig
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryBusiness/obj/Debug/net7.0/MemoryBusiness.AssemblyInfoInputs.cache
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryBusiness/obj/Debug/net7.0/MemoryBusiness.AssemblyInfo.cs
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryBusiness/obj/Debug/net7.0/MemoryBusiness.csproj.CoreCompileInputs.cache
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryBusiness/obj/Debug/net7.0/MemoryBusiness.dll
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryBusiness/obj/Debug/net7.0/refint/MemoryBusiness.dll
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryBusiness/obj/Debug/net7.0/MemoryBusiness.pdb
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryBusiness/obj/Debug/net7.0/MemoryBusiness.genruntimeconfig.cache
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/MemoryBusiness/obj/Debug/net7.0/ref/MemoryBusiness.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/MemoryBusiness/bin/Debug/net7.0/MemoryBusiness
+/Users/xanderperlee/Downloads/Afteken opdrachten/MemoryBusiness/bin/Debug/net7.0/MemoryBusiness.deps.json
+/Users/xanderperlee/Downloads/Afteken opdrachten/MemoryBusiness/bin/Debug/net7.0/MemoryBusiness.runtimeconfig.json
+/Users/xanderperlee/Downloads/Afteken opdrachten/MemoryBusiness/bin/Debug/net7.0/MemoryBusiness.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/MemoryBusiness/bin/Debug/net7.0/MemoryBusiness.pdb
+/Users/xanderperlee/Downloads/Afteken opdrachten/MemoryBusiness/obj/Debug/net7.0/MemoryBusiness.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xanderperlee/Downloads/Afteken opdrachten/MemoryBusiness/obj/Debug/net7.0/MemoryBusiness.AssemblyInfoInputs.cache
+/Users/xanderperlee/Downloads/Afteken opdrachten/MemoryBusiness/obj/Debug/net7.0/MemoryBusiness.AssemblyInfo.cs
+/Users/xanderperlee/Downloads/Afteken opdrachten/MemoryBusiness/obj/Debug/net7.0/MemoryBusiness.csproj.CoreCompileInputs.cache
+/Users/xanderperlee/Downloads/Afteken opdrachten/MemoryBusiness/obj/Debug/net7.0/MemoryBusiness.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/MemoryBusiness/obj/Debug/net7.0/refint/MemoryBusiness.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/MemoryBusiness/obj/Debug/net7.0/MemoryBusiness.pdb
+/Users/xanderperlee/Downloads/Afteken opdrachten/MemoryBusiness/obj/Debug/net7.0/MemoryBusiness.genruntimeconfig.cache
+/Users/xanderperlee/Downloads/Afteken opdrachten/MemoryBusiness/obj/Debug/net7.0/ref/MemoryBusiness.dll

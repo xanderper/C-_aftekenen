@@ -1,0 +1,180 @@
+C:/Users/Tristen/OneDrive - Windesheim Office365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/bin/Debug/net7.0/MemoryBusiness.deps.json
+C:/Users/Tristen/OneDrive - Windesheim Office365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/bin/Debug/net7.0/MemoryBusiness.runtimeconfig.json
+C:/Users/Tristen/OneDrive - Windesheim Office365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/bin/Debug/net7.0/MemoryBusiness.exe
+C:/Users/Tristen/OneDrive - Windesheim Office365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/bin/Debug/net7.0/Data.exe
+C:/Users/Tristen/OneDrive - Windesheim Office365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/bin/Debug/net7.0/Data.deps.json
+C:/Users/Tristen/OneDrive - Windesheim Office365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/bin/Debug/net7.0/Data.runtimeconfig.json
+C:/Users/Tristen/OneDrive - Windesheim Office365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/bin/Debug/net7.0/Data.dll
+C:/Users/Tristen/OneDrive - Windesheim Office365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/bin/Debug/net7.0/Data.pdb
+C:/Users/Tristen/OneDrive - Windesheim Office365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/bin/Debug/net7.0/BouncyCastle.Cryptography.dll
+C:/Users/Tristen/OneDrive - Windesheim Office365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/bin/Debug/net7.0/Google.Protobuf.dll
+C:/Users/Tristen/OneDrive - Windesheim Office365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/bin/Debug/net7.0/K4os.Compression.LZ4.dll
+C:/Users/Tristen/OneDrive - Windesheim Office365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/bin/Debug/net7.0/K4os.Compression.LZ4.Streams.dll
+C:/Users/Tristen/OneDrive - Windesheim Office365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/bin/Debug/net7.0/K4os.Hash.xxHash.dll
+C:/Users/Tristen/OneDrive - Windesheim Office365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/Tristen/OneDrive - Windesheim Office365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/bin/Debug/net7.0/MySql.Data.dll
+C:/Users/Tristen/OneDrive - Windesheim Office365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+C:/Users/Tristen/OneDrive - Windesheim Office365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/bin/Debug/net7.0/System.Drawing.Common.dll
+C:/Users/Tristen/OneDrive - Windesheim Office365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/bin/Debug/net7.0/System.IO.Pipelines.dll
+C:/Users/Tristen/OneDrive - Windesheim Office365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Tristen/OneDrive - Windesheim Office365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/bin/Debug/net7.0/System.Security.Permissions.dll
+C:/Users/Tristen/OneDrive - Windesheim Office365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/bin/Debug/net7.0/System.Windows.Extensions.dll
+C:/Users/Tristen/OneDrive - Windesheim Office365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/bin/Debug/net7.0/ZstdSharp.dll
+C:/Users/Tristen/OneDrive - Windesheim Office365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/Tristen/OneDrive - Windesheim Office365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/bin/Debug/net7.0/runtimes/win-x64/native/comerr64.dll
+C:/Users/Tristen/OneDrive - Windesheim Office365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/bin/Debug/net7.0/runtimes/win-x64/native/gssapi64.dll
+C:/Users/Tristen/OneDrive - Windesheim Office365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/bin/Debug/net7.0/runtimes/win-x64/native/k5sprt64.dll
+C:/Users/Tristen/OneDrive - Windesheim Office365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/bin/Debug/net7.0/runtimes/win-x64/native/krb5_64.dll
+C:/Users/Tristen/OneDrive - Windesheim Office365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/bin/Debug/net7.0/runtimes/win-x64/native/krbcc64.dll
+C:/Users/Tristen/OneDrive - Windesheim Office365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/Tristen/OneDrive - Windesheim Office365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/Tristen/OneDrive - Windesheim Office365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Tristen/OneDrive - Windesheim Office365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+C:/Users/Tristen/OneDrive - Windesheim Office365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/bin/Debug/net7.0/MemoryBusiness.dll
+C:/Users/Tristen/OneDrive - Windesheim Office365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/bin/Debug/net7.0/MemoryBusiness.pdb
+C:/Users/Tristen/OneDrive - Windesheim Office365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/obj/Debug/net7.0/Data.csproj.AssemblyReference.cache
+C:/Users/Tristen/OneDrive - Windesheim Office365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/obj/Debug/net7.0/Data.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Tristen/OneDrive - Windesheim Office365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/obj/Debug/net7.0/Data.AssemblyInfoInputs.cache
+C:/Users/Tristen/OneDrive - Windesheim Office365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/obj/Debug/net7.0/Data.AssemblyInfo.cs
+C:/Users/Tristen/OneDrive - Windesheim Office365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/obj/Debug/net7.0/Data.csproj.CoreCompileInputs.cache
+C:/Users/Tristen/OneDrive - Windesheim Office365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/obj/Debug/net7.0/Data.csproj.CopyComplete
+C:/Users/Tristen/OneDrive - Windesheim Office365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/obj/Debug/net7.0/Data.dll
+C:/Users/Tristen/OneDrive - Windesheim Office365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/obj/Debug/net7.0/refint/Data.dll
+C:/Users/Tristen/OneDrive - Windesheim Office365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/obj/Debug/net7.0/Data.pdb
+C:/Users/Tristen/OneDrive - Windesheim Office365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/obj/Debug/net7.0/Data.genruntimeconfig.cache
+C:/Users/Tristen/OneDrive - Windesheim Office365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/obj/Debug/net7.0/ref/Data.dll
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/bin/Debug/net7.0/MemoryBusiness.deps.json
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/bin/Debug/net7.0/MemoryBusiness.runtimeconfig.json
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/bin/Debug/net7.0/MemoryBusiness.exe
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/bin/Debug/net7.0/Data.exe
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/bin/Debug/net7.0/Data.deps.json
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/bin/Debug/net7.0/Data.runtimeconfig.json
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/bin/Debug/net7.0/Data.dll
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/bin/Debug/net7.0/Data.pdb
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/bin/Debug/net7.0/BouncyCastle.Cryptography.dll
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/bin/Debug/net7.0/Google.Protobuf.dll
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/bin/Debug/net7.0/K4os.Compression.LZ4.dll
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/bin/Debug/net7.0/K4os.Compression.LZ4.Streams.dll
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/bin/Debug/net7.0/K4os.Hash.xxHash.dll
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/bin/Debug/net7.0/MySql.Data.dll
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/bin/Debug/net7.0/System.Drawing.Common.dll
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/bin/Debug/net7.0/System.IO.Pipelines.dll
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/bin/Debug/net7.0/System.Security.Permissions.dll
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/bin/Debug/net7.0/System.Windows.Extensions.dll
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/bin/Debug/net7.0/ZstdSharp.dll
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/bin/Debug/net7.0/runtimes/win-x64/native/comerr64.dll
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/bin/Debug/net7.0/runtimes/win-x64/native/gssapi64.dll
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/bin/Debug/net7.0/runtimes/win-x64/native/k5sprt64.dll
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/bin/Debug/net7.0/runtimes/win-x64/native/krb5_64.dll
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/bin/Debug/net7.0/runtimes/win-x64/native/krbcc64.dll
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/bin/Debug/net7.0/MemoryBusiness.dll
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/bin/Debug/net7.0/MemoryBusiness.pdb
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/obj/Debug/net7.0/Data.csproj.AssemblyReference.cache
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/obj/Debug/net7.0/Data.GeneratedMSBuildEditorConfig.editorconfig
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/obj/Debug/net7.0/Data.AssemblyInfoInputs.cache
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/obj/Debug/net7.0/Data.AssemblyInfo.cs
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/obj/Debug/net7.0/Data.csproj.CoreCompileInputs.cache
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/obj/Debug/net7.0/Data.csproj.CopyComplete
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/obj/Debug/net7.0/Data.dll
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/obj/Debug/net7.0/refint/Data.dll
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/obj/Debug/net7.0/Data.pdb
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/obj/Debug/net7.0/Data.genruntimeconfig.cache
+//Mac/Home/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/obj/Debug/net7.0/ref/Data.dll
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/bin/Debug/net7.0/MemoryBusiness.deps.json
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/bin/Debug/net7.0/MemoryBusiness.runtimeconfig.json
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/bin/Debug/net7.0/MemoryBusiness
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/bin/Debug/net7.0/Data
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/bin/Debug/net7.0/Data.deps.json
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/bin/Debug/net7.0/Data.runtimeconfig.json
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/bin/Debug/net7.0/Data.dll
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/bin/Debug/net7.0/Data.pdb
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/bin/Debug/net7.0/BouncyCastle.Cryptography.dll
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/bin/Debug/net7.0/Google.Protobuf.dll
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/bin/Debug/net7.0/K4os.Compression.LZ4.dll
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/bin/Debug/net7.0/K4os.Compression.LZ4.Streams.dll
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/bin/Debug/net7.0/K4os.Hash.xxHash.dll
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/bin/Debug/net7.0/MySql.Data.dll
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/bin/Debug/net7.0/System.Drawing.Common.dll
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/bin/Debug/net7.0/System.IO.Pipelines.dll
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/bin/Debug/net7.0/System.Security.Permissions.dll
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/bin/Debug/net7.0/System.Windows.Extensions.dll
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/bin/Debug/net7.0/ZstdSharp.dll
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/bin/Debug/net7.0/runtimes/win-x64/native/comerr64.dll
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/bin/Debug/net7.0/runtimes/win-x64/native/gssapi64.dll
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/bin/Debug/net7.0/runtimes/win-x64/native/k5sprt64.dll
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/bin/Debug/net7.0/runtimes/win-x64/native/krb5_64.dll
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/bin/Debug/net7.0/runtimes/win-x64/native/krbcc64.dll
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/bin/Debug/net7.0/MemoryBusiness.dll
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/bin/Debug/net7.0/MemoryBusiness.pdb
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/obj/Debug/net7.0/Data.csproj.AssemblyReference.cache
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/obj/Debug/net7.0/Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/obj/Debug/net7.0/Data.AssemblyInfoInputs.cache
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/obj/Debug/net7.0/Data.AssemblyInfo.cs
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/obj/Debug/net7.0/Data.csproj.CoreCompileInputs.cache
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/obj/Debug/net7.0/Data.csproj.CopyComplete
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/obj/Debug/net7.0/Data.dll
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/obj/Debug/net7.0/refint/Data.dll
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/obj/Debug/net7.0/Data.pdb
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/obj/Debug/net7.0/Data.genruntimeconfig.cache
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Data/obj/Debug/net7.0/ref/Data.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/Data/bin/Debug/net7.0/MemoryBusiness.deps.json
+/Users/xanderperlee/Downloads/Afteken opdrachten/Data/bin/Debug/net7.0/MemoryBusiness.runtimeconfig.json
+/Users/xanderperlee/Downloads/Afteken opdrachten/Data/bin/Debug/net7.0/MemoryBusiness
+/Users/xanderperlee/Downloads/Afteken opdrachten/Data/bin/Debug/net7.0/Data
+/Users/xanderperlee/Downloads/Afteken opdrachten/Data/bin/Debug/net7.0/Data.deps.json
+/Users/xanderperlee/Downloads/Afteken opdrachten/Data/bin/Debug/net7.0/Data.runtimeconfig.json
+/Users/xanderperlee/Downloads/Afteken opdrachten/Data/bin/Debug/net7.0/Data.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/Data/bin/Debug/net7.0/Data.pdb
+/Users/xanderperlee/Downloads/Afteken opdrachten/Data/bin/Debug/net7.0/BouncyCastle.Cryptography.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/Data/bin/Debug/net7.0/Google.Protobuf.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/Data/bin/Debug/net7.0/K4os.Compression.LZ4.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/Data/bin/Debug/net7.0/K4os.Compression.LZ4.Streams.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/Data/bin/Debug/net7.0/K4os.Hash.xxHash.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/Data/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/Data/bin/Debug/net7.0/MySql.Data.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/Data/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/Data/bin/Debug/net7.0/System.Drawing.Common.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/Data/bin/Debug/net7.0/System.IO.Pipelines.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/Data/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/Data/bin/Debug/net7.0/System.Security.Permissions.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/Data/bin/Debug/net7.0/System.Windows.Extensions.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/Data/bin/Debug/net7.0/ZstdSharp.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/Data/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/Data/bin/Debug/net7.0/runtimes/win-x64/native/comerr64.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/Data/bin/Debug/net7.0/runtimes/win-x64/native/gssapi64.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/Data/bin/Debug/net7.0/runtimes/win-x64/native/k5sprt64.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/Data/bin/Debug/net7.0/runtimes/win-x64/native/krb5_64.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/Data/bin/Debug/net7.0/runtimes/win-x64/native/krbcc64.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/Data/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/Data/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/Data/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/Data/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/Data/bin/Debug/net7.0/MemoryBusiness.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/Data/bin/Debug/net7.0/MemoryBusiness.pdb
+/Users/xanderperlee/Downloads/Afteken opdrachten/Data/obj/Debug/net7.0/Data.csproj.AssemblyReference.cache
+/Users/xanderperlee/Downloads/Afteken opdrachten/Data/obj/Debug/net7.0/Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xanderperlee/Downloads/Afteken opdrachten/Data/obj/Debug/net7.0/Data.AssemblyInfoInputs.cache
+/Users/xanderperlee/Downloads/Afteken opdrachten/Data/obj/Debug/net7.0/Data.AssemblyInfo.cs
+/Users/xanderperlee/Downloads/Afteken opdrachten/Data/obj/Debug/net7.0/Data.csproj.CoreCompileInputs.cache
+/Users/xanderperlee/Downloads/Afteken opdrachten/Data/obj/Debug/net7.0/Data.csproj.CopyComplete
+/Users/xanderperlee/Downloads/Afteken opdrachten/Data/obj/Debug/net7.0/Data.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/Data/obj/Debug/net7.0/refint/Data.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/Data/obj/Debug/net7.0/Data.pdb
+/Users/xanderperlee/Downloads/Afteken opdrachten/Data/obj/Debug/net7.0/Data.genruntimeconfig.cache
+/Users/xanderperlee/Downloads/Afteken opdrachten/Data/obj/Debug/net7.0/ref/Data.dll

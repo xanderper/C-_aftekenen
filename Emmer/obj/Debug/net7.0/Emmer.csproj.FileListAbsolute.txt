@@ -1,0 +1,42 @@
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Emmer/bin/Debug/net7.0/Emmer
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Emmer/bin/Debug/net7.0/Emmer.deps.json
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Emmer/bin/Debug/net7.0/Emmer.runtimeconfig.json
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Emmer/bin/Debug/net7.0/Emmer.dll
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Emmer/bin/Debug/net7.0/Emmer.pdb
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Emmer/obj/Debug/net7.0/Emmer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Emmer/obj/Debug/net7.0/Emmer.AssemblyInfoInputs.cache
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Emmer/obj/Debug/net7.0/Emmer.AssemblyInfo.cs
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Emmer/obj/Debug/net7.0/Emmer.csproj.CoreCompileInputs.cache
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Emmer/obj/Debug/net7.0/Emmer.dll
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Emmer/obj/Debug/net7.0/refint/Emmer.dll
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Emmer/obj/Debug/net7.0/Emmer.pdb
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Emmer/obj/Debug/net7.0/Emmer.genruntimeconfig.cache
+/Users/tristenende/Library/CloudStorage/OneDrive-WindesheimOffice365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Emmer/obj/Debug/net7.0/ref/Emmer.dll
+C:/Users/Tristen/OneDrive - Windesheim Office365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Emmer/bin/Debug/net7.0/Emmer.exe
+C:/Users/Tristen/OneDrive - Windesheim Office365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Emmer/bin/Debug/net7.0/Emmer.deps.json
+C:/Users/Tristen/OneDrive - Windesheim Office365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Emmer/bin/Debug/net7.0/Emmer.runtimeconfig.json
+C:/Users/Tristen/OneDrive - Windesheim Office365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Emmer/bin/Debug/net7.0/Emmer.dll
+C:/Users/Tristen/OneDrive - Windesheim Office365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Emmer/bin/Debug/net7.0/Emmer.pdb
+C:/Users/Tristen/OneDrive - Windesheim Office365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Emmer/obj/Debug/net7.0/Emmer.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Tristen/OneDrive - Windesheim Office365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Emmer/obj/Debug/net7.0/Emmer.AssemblyInfoInputs.cache
+C:/Users/Tristen/OneDrive - Windesheim Office365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Emmer/obj/Debug/net7.0/Emmer.AssemblyInfo.cs
+C:/Users/Tristen/OneDrive - Windesheim Office365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Emmer/obj/Debug/net7.0/Emmer.csproj.CoreCompileInputs.cache
+C:/Users/Tristen/OneDrive - Windesheim Office365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Emmer/obj/Debug/net7.0/Emmer.dll
+C:/Users/Tristen/OneDrive - Windesheim Office365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Emmer/obj/Debug/net7.0/refint/Emmer.dll
+C:/Users/Tristen/OneDrive - Windesheim Office365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Emmer/obj/Debug/net7.0/Emmer.pdb
+C:/Users/Tristen/OneDrive - Windesheim Office365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Emmer/obj/Debug/net7.0/Emmer.genruntimeconfig.cache
+C:/Users/Tristen/OneDrive - Windesheim Office365/ICT/Leerjaar 2/Periode 1/C#/Aftekenen/Afteken opdrachten/Emmer/obj/Debug/net7.0/ref/Emmer.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/Emmer/bin/Debug/net7.0/Emmer
+/Users/xanderperlee/Downloads/Afteken opdrachten/Emmer/bin/Debug/net7.0/Emmer.deps.json
+/Users/xanderperlee/Downloads/Afteken opdrachten/Emmer/bin/Debug/net7.0/Emmer.runtimeconfig.json
+/Users/xanderperlee/Downloads/Afteken opdrachten/Emmer/bin/Debug/net7.0/Emmer.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/Emmer/bin/Debug/net7.0/Emmer.pdb
+/Users/xanderperlee/Downloads/Afteken opdrachten/Emmer/obj/Debug/net7.0/Emmer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xanderperlee/Downloads/Afteken opdrachten/Emmer/obj/Debug/net7.0/Emmer.AssemblyInfoInputs.cache
+/Users/xanderperlee/Downloads/Afteken opdrachten/Emmer/obj/Debug/net7.0/Emmer.AssemblyInfo.cs
+/Users/xanderperlee/Downloads/Afteken opdrachten/Emmer/obj/Debug/net7.0/Emmer.csproj.CoreCompileInputs.cache
+/Users/xanderperlee/Downloads/Afteken opdrachten/Emmer/obj/Debug/net7.0/Emmer.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/Emmer/obj/Debug/net7.0/refint/Emmer.dll
+/Users/xanderperlee/Downloads/Afteken opdrachten/Emmer/obj/Debug/net7.0/Emmer.pdb
+/Users/xanderperlee/Downloads/Afteken opdrachten/Emmer/obj/Debug/net7.0/Emmer.genruntimeconfig.cache
+/Users/xanderperlee/Downloads/Afteken opdrachten/Emmer/obj/Debug/net7.0/ref/Emmer.dll

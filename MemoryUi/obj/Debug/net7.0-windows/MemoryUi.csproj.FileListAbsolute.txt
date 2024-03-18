@@ -1,0 +1,102 @@
+C:\Users\Tristen\OneDrive - Windesheim Office365\ICT\Leerjaar 2\Periode 1\C#\Aftekenen\Afteken opdrachten\MemoryUi\bin\Debug\net7.0-windows\MemoryBusiness.deps.json
+C:\Users\Tristen\OneDrive - Windesheim Office365\ICT\Leerjaar 2\Periode 1\C#\Aftekenen\Afteken opdrachten\MemoryUi\bin\Debug\net7.0-windows\MemoryBusiness.runtimeconfig.json
+C:\Users\Tristen\OneDrive - Windesheim Office365\ICT\Leerjaar 2\Periode 1\C#\Aftekenen\Afteken opdrachten\MemoryUi\bin\Debug\net7.0-windows\MemoryBusiness.exe
+C:\Users\Tristen\OneDrive - Windesheim Office365\ICT\Leerjaar 2\Periode 1\C#\Aftekenen\Afteken opdrachten\MemoryUi\bin\Debug\net7.0-windows\MemoryUi.exe
+C:\Users\Tristen\OneDrive - Windesheim Office365\ICT\Leerjaar 2\Periode 1\C#\Aftekenen\Afteken opdrachten\MemoryUi\bin\Debug\net7.0-windows\MemoryUi.deps.json
+C:\Users\Tristen\OneDrive - Windesheim Office365\ICT\Leerjaar 2\Periode 1\C#\Aftekenen\Afteken opdrachten\MemoryUi\bin\Debug\net7.0-windows\MemoryUi.runtimeconfig.json
+C:\Users\Tristen\OneDrive - Windesheim Office365\ICT\Leerjaar 2\Periode 1\C#\Aftekenen\Afteken opdrachten\MemoryUi\bin\Debug\net7.0-windows\MemoryUi.dll
+C:\Users\Tristen\OneDrive - Windesheim Office365\ICT\Leerjaar 2\Periode 1\C#\Aftekenen\Afteken opdrachten\MemoryUi\bin\Debug\net7.0-windows\MemoryUi.pdb
+C:\Users\Tristen\OneDrive - Windesheim Office365\ICT\Leerjaar 2\Periode 1\C#\Aftekenen\Afteken opdrachten\MemoryUi\bin\Debug\net7.0-windows\MemoryBusiness.dll
+C:\Users\Tristen\OneDrive - Windesheim Office365\ICT\Leerjaar 2\Periode 1\C#\Aftekenen\Afteken opdrachten\MemoryUi\bin\Debug\net7.0-windows\MemoryBusiness.pdb
+C:\Users\Tristen\OneDrive - Windesheim Office365\ICT\Leerjaar 2\Periode 1\C#\Aftekenen\Afteken opdrachten\MemoryUi\obj\Debug\net7.0-windows\MemoryUi.csproj.AssemblyReference.cache
+C:\Users\Tristen\OneDrive - Windesheim Office365\ICT\Leerjaar 2\Periode 1\C#\Aftekenen\Afteken opdrachten\MemoryUi\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Tristen\OneDrive - Windesheim Office365\ICT\Leerjaar 2\Periode 1\C#\Aftekenen\Afteken opdrachten\MemoryUi\obj\Debug\net7.0-windows\MemoryUi_MarkupCompile.cache
+C:\Users\Tristen\OneDrive - Windesheim Office365\ICT\Leerjaar 2\Periode 1\C#\Aftekenen\Afteken opdrachten\MemoryUi\obj\Debug\net7.0-windows\MemoryUi.g.resources
+C:\Users\Tristen\OneDrive - Windesheim Office365\ICT\Leerjaar 2\Periode 1\C#\Aftekenen\Afteken opdrachten\MemoryUi\obj\Debug\net7.0-windows\MemoryUi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tristen\OneDrive - Windesheim Office365\ICT\Leerjaar 2\Periode 1\C#\Aftekenen\Afteken opdrachten\MemoryUi\obj\Debug\net7.0-windows\MemoryUi.AssemblyInfoInputs.cache
+C:\Users\Tristen\OneDrive - Windesheim Office365\ICT\Leerjaar 2\Periode 1\C#\Aftekenen\Afteken opdrachten\MemoryUi\obj\Debug\net7.0-windows\MemoryUi.AssemblyInfo.cs
+C:\Users\Tristen\OneDrive - Windesheim Office365\ICT\Leerjaar 2\Periode 1\C#\Aftekenen\Afteken opdrachten\MemoryUi\obj\Debug\net7.0-windows\MemoryUi.csproj.CoreCompileInputs.cache
+C:\Users\Tristen\OneDrive - Windesheim Office365\ICT\Leerjaar 2\Periode 1\C#\Aftekenen\Afteken opdrachten\MemoryUi\obj\Debug\net7.0-windows\MemoryUi.csproj.CopyComplete
+C:\Users\Tristen\OneDrive - Windesheim Office365\ICT\Leerjaar 2\Periode 1\C#\Aftekenen\Afteken opdrachten\MemoryUi\obj\Debug\net7.0-windows\MemoryUi.dll
+C:\Users\Tristen\OneDrive - Windesheim Office365\ICT\Leerjaar 2\Periode 1\C#\Aftekenen\Afteken opdrachten\MemoryUi\obj\Debug\net7.0-windows\refint\MemoryUi.dll
+C:\Users\Tristen\OneDrive - Windesheim Office365\ICT\Leerjaar 2\Periode 1\C#\Aftekenen\Afteken opdrachten\MemoryUi\obj\Debug\net7.0-windows\MemoryUi.pdb
+C:\Users\Tristen\OneDrive - Windesheim Office365\ICT\Leerjaar 2\Periode 1\C#\Aftekenen\Afteken opdrachten\MemoryUi\obj\Debug\net7.0-windows\MemoryUi.genruntimeconfig.cache
+C:\Users\Tristen\OneDrive - Windesheim Office365\ICT\Leerjaar 2\Periode 1\C#\Aftekenen\Afteken opdrachten\MemoryUi\obj\Debug\net7.0-windows\ref\MemoryUi.dll
+C:\Users\Tristen\OneDrive - Windesheim Office365\ICT\Leerjaar 2\Periode 1\C#\Aftekenen\Afteken opdrachten\MemoryUi\bin\Debug\net7.0-windows\Data.deps.json
+C:\Users\Tristen\OneDrive - Windesheim Office365\ICT\Leerjaar 2\Periode 1\C#\Aftekenen\Afteken opdrachten\MemoryUi\bin\Debug\net7.0-windows\Data.runtimeconfig.json
+C:\Users\Tristen\OneDrive - Windesheim Office365\ICT\Leerjaar 2\Periode 1\C#\Aftekenen\Afteken opdrachten\MemoryUi\bin\Debug\net7.0-windows\Data.exe
+C:\Users\Tristen\OneDrive - Windesheim Office365\ICT\Leerjaar 2\Periode 1\C#\Aftekenen\Afteken opdrachten\MemoryUi\bin\Debug\net7.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\Tristen\OneDrive - Windesheim Office365\ICT\Leerjaar 2\Periode 1\C#\Aftekenen\Afteken opdrachten\MemoryUi\bin\Debug\net7.0-windows\Google.Protobuf.dll
+C:\Users\Tristen\OneDrive - Windesheim Office365\ICT\Leerjaar 2\Periode 1\C#\Aftekenen\Afteken opdrachten\MemoryUi\bin\Debug\net7.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Tristen\OneDrive - Windesheim Office365\ICT\Leerjaar 2\Periode 1\C#\Aftekenen\Afteken opdrachten\MemoryUi\bin\Debug\net7.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Tristen\OneDrive - Windesheim Office365\ICT\Leerjaar 2\Periode 1\C#\Aftekenen\Afteken opdrachten\MemoryUi\bin\Debug\net7.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Tristen\OneDrive - Windesheim Office365\ICT\Leerjaar 2\Periode 1\C#\Aftekenen\Afteken opdrachten\MemoryUi\bin\Debug\net7.0-windows\MySql.Data.dll
+C:\Users\Tristen\OneDrive - Windesheim Office365\ICT\Leerjaar 2\Periode 1\C#\Aftekenen\Afteken opdrachten\MemoryUi\bin\Debug\net7.0-windows\System.IO.Pipelines.dll
+C:\Users\Tristen\OneDrive - Windesheim Office365\ICT\Leerjaar 2\Periode 1\C#\Aftekenen\Afteken opdrachten\MemoryUi\bin\Debug\net7.0-windows\ZstdSharp.dll
+C:\Users\Tristen\OneDrive - Windesheim Office365\ICT\Leerjaar 2\Periode 1\C#\Aftekenen\Afteken opdrachten\MemoryUi\bin\Debug\net7.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Tristen\OneDrive - Windesheim Office365\ICT\Leerjaar 2\Periode 1\C#\Aftekenen\Afteken opdrachten\MemoryUi\bin\Debug\net7.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Tristen\OneDrive - Windesheim Office365\ICT\Leerjaar 2\Periode 1\C#\Aftekenen\Afteken opdrachten\MemoryUi\bin\Debug\net7.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Tristen\OneDrive - Windesheim Office365\ICT\Leerjaar 2\Periode 1\C#\Aftekenen\Afteken opdrachten\MemoryUi\bin\Debug\net7.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Tristen\OneDrive - Windesheim Office365\ICT\Leerjaar 2\Periode 1\C#\Aftekenen\Afteken opdrachten\MemoryUi\bin\Debug\net7.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Tristen\OneDrive - Windesheim Office365\ICT\Leerjaar 2\Periode 1\C#\Aftekenen\Afteken opdrachten\MemoryUi\bin\Debug\net7.0-windows\Data.dll
+C:\Users\Tristen\OneDrive - Windesheim Office365\ICT\Leerjaar 2\Periode 1\C#\Aftekenen\Afteken opdrachten\MemoryUi\bin\Debug\net7.0-windows\Data.pdb
+C:\Users\Tristen\OneDrive - Windesheim Office365\ICT\Leerjaar 2\Periode 1\C#\Aftekenen\Afteken opdrachten\MemoryUi\obj\Debug\net7.0-windows\Gamewindow.baml
+C:\Users\Tristen\OneDrive - Windesheim Office365\ICT\Leerjaar 2\Periode 1\C#\Aftekenen\Afteken opdrachten\MemoryUi\obj\Debug\net7.0-windows\Gamewindow.g.cs
+C:\Users\Tristen\OneDrive - Windesheim Office365\ICT\Leerjaar 2\Periode 1\C#\Aftekenen\Afteken opdrachten\MemoryUi\obj\Debug\net7.0-windows\Hoofdscherm.g.cs
+C:\Users\Tristen\OneDrive - Windesheim Office365\ICT\Leerjaar 2\Periode 1\C#\Aftekenen\Afteken opdrachten\MemoryUi\obj\Debug\net7.0-windows\MemoryUi_MarkupCompile.lref
+C:\Users\Tristen\OneDrive - Windesheim Office365\ICT\Leerjaar 2\Periode 1\C#\Aftekenen\Afteken opdrachten\MemoryUi\obj\Debug\net7.0-windows\Hoofdscherm.baml
+C:\Users\Tristen\OneDrive - Windesheim Office365\ICT\Leerjaar 2\Periode 1\C#\Aftekenen\Afteken opdrachten\MemoryUi\obj\Debug\net7.0-windows\LeaderboardWindow.g.cs
+C:\Users\Tristen\OneDrive - Windesheim Office365\ICT\Leerjaar 2\Periode 1\C#\Aftekenen\Afteken opdrachten\MemoryUi\obj\Debug\net7.0-windows\LeaderboardWindow.baml
+C:\Users\Tristen\OneDrive - Windesheim Office365\ICT\Leerjaar 2\Periode 1\C#\Aftekenen\Afteken opdrachten\MemoryUi\obj\Debug\net7.0-windows\Dialog.baml
+C:\Users\Tristen\OneDrive - Windesheim Office365\ICT\Leerjaar 2\Periode 1\C#\Aftekenen\Afteken opdrachten\MemoryUi\obj\Debug\net7.0-windows\Dialog.g.cs
+\\Mac\Home\Library\CloudStorage\OneDrive-WindesheimOffice365\ICT\Leerjaar 2\Periode 1\C#\Aftekenen\Afteken opdrachten\MemoryUi\bin\Debug\net7.0-windows\Data.deps.json
+\\Mac\Home\Library\CloudStorage\OneDrive-WindesheimOffice365\ICT\Leerjaar 2\Periode 1\C#\Aftekenen\Afteken opdrachten\MemoryUi\bin\Debug\net7.0-windows\Data.runtimeconfig.json
+\\Mac\Home\Library\CloudStorage\OneDrive-WindesheimOffice365\ICT\Leerjaar 2\Periode 1\C#\Aftekenen\Afteken opdrachten\MemoryUi\bin\Debug\net7.0-windows\MemoryBusiness.deps.json
+\\Mac\Home\Library\CloudStorage\OneDrive-WindesheimOffice365\ICT\Leerjaar 2\Periode 1\C#\Aftekenen\Afteken opdrachten\MemoryUi\bin\Debug\net7.0-windows\MemoryBusiness.runtimeconfig.json
+\\Mac\Home\Library\CloudStorage\OneDrive-WindesheimOffice365\ICT\Leerjaar 2\Periode 1\C#\Aftekenen\Afteken opdrachten\MemoryUi\bin\Debug\net7.0-windows\MemoryBusiness.exe
+\\Mac\Home\Library\CloudStorage\OneDrive-WindesheimOffice365\ICT\Leerjaar 2\Periode 1\C#\Aftekenen\Afteken opdrachten\MemoryUi\bin\Debug\net7.0-windows\Data.exe
+\\Mac\Home\Library\CloudStorage\OneDrive-WindesheimOffice365\ICT\Leerjaar 2\Periode 1\C#\Aftekenen\Afteken opdrachten\MemoryUi\bin\Debug\net7.0-windows\MemoryUi.exe
+\\Mac\Home\Library\CloudStorage\OneDrive-WindesheimOffice365\ICT\Leerjaar 2\Periode 1\C#\Aftekenen\Afteken opdrachten\MemoryUi\bin\Debug\net7.0-windows\MemoryUi.deps.json
+\\Mac\Home\Library\CloudStorage\OneDrive-WindesheimOffice365\ICT\Leerjaar 2\Periode 1\C#\Aftekenen\Afteken opdrachten\MemoryUi\bin\Debug\net7.0-windows\MemoryUi.runtimeconfig.json
+\\Mac\Home\Library\CloudStorage\OneDrive-WindesheimOffice365\ICT\Leerjaar 2\Periode 1\C#\Aftekenen\Afteken opdrachten\MemoryUi\bin\Debug\net7.0-windows\MemoryUi.dll
+\\Mac\Home\Library\CloudStorage\OneDrive-WindesheimOffice365\ICT\Leerjaar 2\Periode 1\C#\Aftekenen\Afteken opdrachten\MemoryUi\bin\Debug\net7.0-windows\MemoryUi.pdb
+\\Mac\Home\Library\CloudStorage\OneDrive-WindesheimOffice365\ICT\Leerjaar 2\Periode 1\C#\Aftekenen\Afteken opdrachten\MemoryUi\bin\Debug\net7.0-windows\BouncyCastle.Cryptography.dll
+\\Mac\Home\Library\CloudStorage\OneDrive-WindesheimOffice365\ICT\Leerjaar 2\Periode 1\C#\Aftekenen\Afteken opdrachten\MemoryUi\bin\Debug\net7.0-windows\Google.Protobuf.dll
+\\Mac\Home\Library\CloudStorage\OneDrive-WindesheimOffice365\ICT\Leerjaar 2\Periode 1\C#\Aftekenen\Afteken opdrachten\MemoryUi\bin\Debug\net7.0-windows\K4os.Compression.LZ4.dll
+\\Mac\Home\Library\CloudStorage\OneDrive-WindesheimOffice365\ICT\Leerjaar 2\Periode 1\C#\Aftekenen\Afteken opdrachten\MemoryUi\bin\Debug\net7.0-windows\K4os.Compression.LZ4.Streams.dll
+\\Mac\Home\Library\CloudStorage\OneDrive-WindesheimOffice365\ICT\Leerjaar 2\Periode 1\C#\Aftekenen\Afteken opdrachten\MemoryUi\bin\Debug\net7.0-windows\K4os.Hash.xxHash.dll
+\\Mac\Home\Library\CloudStorage\OneDrive-WindesheimOffice365\ICT\Leerjaar 2\Periode 1\C#\Aftekenen\Afteken opdrachten\MemoryUi\bin\Debug\net7.0-windows\MySql.Data.dll
+\\Mac\Home\Library\CloudStorage\OneDrive-WindesheimOffice365\ICT\Leerjaar 2\Periode 1\C#\Aftekenen\Afteken opdrachten\MemoryUi\bin\Debug\net7.0-windows\System.IO.Pipelines.dll
+\\Mac\Home\Library\CloudStorage\OneDrive-WindesheimOffice365\ICT\Leerjaar 2\Periode 1\C#\Aftekenen\Afteken opdrachten\MemoryUi\bin\Debug\net7.0-windows\ZstdSharp.dll
+\\Mac\Home\Library\CloudStorage\OneDrive-WindesheimOffice365\ICT\Leerjaar 2\Periode 1\C#\Aftekenen\Afteken opdrachten\MemoryUi\bin\Debug\net7.0-windows\runtimes\win-x64\native\comerr64.dll
+\\Mac\Home\Library\CloudStorage\OneDrive-WindesheimOffice365\ICT\Leerjaar 2\Periode 1\C#\Aftekenen\Afteken opdrachten\MemoryUi\bin\Debug\net7.0-windows\runtimes\win-x64\native\gssapi64.dll
+\\Mac\Home\Library\CloudStorage\OneDrive-WindesheimOffice365\ICT\Leerjaar 2\Periode 1\C#\Aftekenen\Afteken opdrachten\MemoryUi\bin\Debug\net7.0-windows\runtimes\win-x64\native\k5sprt64.dll
+\\Mac\Home\Library\CloudStorage\OneDrive-WindesheimOffice365\ICT\Leerjaar 2\Periode 1\C#\Aftekenen\Afteken opdrachten\MemoryUi\bin\Debug\net7.0-windows\runtimes\win-x64\native\krb5_64.dll
+\\Mac\Home\Library\CloudStorage\OneDrive-WindesheimOffice365\ICT\Leerjaar 2\Periode 1\C#\Aftekenen\Afteken opdrachten\MemoryUi\bin\Debug\net7.0-windows\runtimes\win-x64\native\krbcc64.dll
+\\Mac\Home\Library\CloudStorage\OneDrive-WindesheimOffice365\ICT\Leerjaar 2\Periode 1\C#\Aftekenen\Afteken opdrachten\MemoryUi\bin\Debug\net7.0-windows\Data.dll
+\\Mac\Home\Library\CloudStorage\OneDrive-WindesheimOffice365\ICT\Leerjaar 2\Periode 1\C#\Aftekenen\Afteken opdrachten\MemoryUi\bin\Debug\net7.0-windows\MemoryBusiness.dll
+\\Mac\Home\Library\CloudStorage\OneDrive-WindesheimOffice365\ICT\Leerjaar 2\Periode 1\C#\Aftekenen\Afteken opdrachten\MemoryUi\bin\Debug\net7.0-windows\Data.pdb
+\\Mac\Home\Library\CloudStorage\OneDrive-WindesheimOffice365\ICT\Leerjaar 2\Periode 1\C#\Aftekenen\Afteken opdrachten\MemoryUi\bin\Debug\net7.0-windows\MemoryBusiness.pdb
+\\Mac\Home\Library\CloudStorage\OneDrive-WindesheimOffice365\ICT\Leerjaar 2\Periode 1\C#\Aftekenen\Afteken opdrachten\MemoryUi\obj\Debug\net7.0-windows\MemoryUi.csproj.AssemblyReference.cache
+\\Mac\Home\Library\CloudStorage\OneDrive-WindesheimOffice365\ICT\Leerjaar 2\Periode 1\C#\Aftekenen\Afteken opdrachten\MemoryUi\obj\Debug\net7.0-windows\Dialog.baml
+\\Mac\Home\Library\CloudStorage\OneDrive-WindesheimOffice365\ICT\Leerjaar 2\Periode 1\C#\Aftekenen\Afteken opdrachten\MemoryUi\obj\Debug\net7.0-windows\Gamewindow.baml
+\\Mac\Home\Library\CloudStorage\OneDrive-WindesheimOffice365\ICT\Leerjaar 2\Periode 1\C#\Aftekenen\Afteken opdrachten\MemoryUi\obj\Debug\net7.0-windows\Dialog.g.cs
+\\Mac\Home\Library\CloudStorage\OneDrive-WindesheimOffice365\ICT\Leerjaar 2\Periode 1\C#\Aftekenen\Afteken opdrachten\MemoryUi\obj\Debug\net7.0-windows\Gamewindow.g.cs
+\\Mac\Home\Library\CloudStorage\OneDrive-WindesheimOffice365\ICT\Leerjaar 2\Periode 1\C#\Aftekenen\Afteken opdrachten\MemoryUi\obj\Debug\net7.0-windows\Hoofdscherm.g.cs
+\\Mac\Home\Library\CloudStorage\OneDrive-WindesheimOffice365\ICT\Leerjaar 2\Periode 1\C#\Aftekenen\Afteken opdrachten\MemoryUi\obj\Debug\net7.0-windows\LeaderboardWindow.g.cs
+\\Mac\Home\Library\CloudStorage\OneDrive-WindesheimOffice365\ICT\Leerjaar 2\Periode 1\C#\Aftekenen\Afteken opdrachten\MemoryUi\obj\Debug\net7.0-windows\App.g.cs
+\\Mac\Home\Library\CloudStorage\OneDrive-WindesheimOffice365\ICT\Leerjaar 2\Periode 1\C#\Aftekenen\Afteken opdrachten\MemoryUi\obj\Debug\net7.0-windows\MemoryUi_MarkupCompile.cache
+\\Mac\Home\Library\CloudStorage\OneDrive-WindesheimOffice365\ICT\Leerjaar 2\Periode 1\C#\Aftekenen\Afteken opdrachten\MemoryUi\obj\Debug\net7.0-windows\MemoryUi_MarkupCompile.lref
+\\Mac\Home\Library\CloudStorage\OneDrive-WindesheimOffice365\ICT\Leerjaar 2\Periode 1\C#\Aftekenen\Afteken opdrachten\MemoryUi\obj\Debug\net7.0-windows\Hoofdscherm.baml
+\\Mac\Home\Library\CloudStorage\OneDrive-WindesheimOffice365\ICT\Leerjaar 2\Periode 1\C#\Aftekenen\Afteken opdrachten\MemoryUi\obj\Debug\net7.0-windows\LeaderboardWindow.baml
+\\Mac\Home\Library\CloudStorage\OneDrive-WindesheimOffice365\ICT\Leerjaar 2\Periode 1\C#\Aftekenen\Afteken opdrachten\MemoryUi\obj\Debug\net7.0-windows\MemoryUi.g.resources
+\\Mac\Home\Library\CloudStorage\OneDrive-WindesheimOffice365\ICT\Leerjaar 2\Periode 1\C#\Aftekenen\Afteken opdrachten\MemoryUi\obj\Debug\net7.0-windows\MemoryUi.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Library\CloudStorage\OneDrive-WindesheimOffice365\ICT\Leerjaar 2\Periode 1\C#\Aftekenen\Afteken opdrachten\MemoryUi\obj\Debug\net7.0-windows\MemoryUi.AssemblyInfoInputs.cache
+\\Mac\Home\Library\CloudStorage\OneDrive-WindesheimOffice365\ICT\Leerjaar 2\Periode 1\C#\Aftekenen\Afteken opdrachten\MemoryUi\obj\Debug\net7.0-windows\MemoryUi.AssemblyInfo.cs
+\\Mac\Home\Library\CloudStorage\OneDrive-WindesheimOffice365\ICT\Leerjaar 2\Periode 1\C#\Aftekenen\Afteken opdrachten\MemoryUi\obj\Debug\net7.0-windows\MemoryUi.csproj.CoreCompileInputs.cache
+\\Mac\Home\Library\CloudStorage\OneDrive-WindesheimOffice365\ICT\Leerjaar 2\Periode 1\C#\Aftekenen\Afteken opdrachten\MemoryUi\obj\Debug\net7.0-windows\MemoryUi.csproj.CopyComplete
+\\Mac\Home\Library\CloudStorage\OneDrive-WindesheimOffice365\ICT\Leerjaar 2\Periode 1\C#\Aftekenen\Afteken opdrachten\MemoryUi\obj\Debug\net7.0-windows\MemoryUi.dll
+\\Mac\Home\Library\CloudStorage\OneDrive-WindesheimOffice365\ICT\Leerjaar 2\Periode 1\C#\Aftekenen\Afteken opdrachten\MemoryUi\obj\Debug\net7.0-windows\refint\MemoryUi.dll
+\\Mac\Home\Library\CloudStorage\OneDrive-WindesheimOffice365\ICT\Leerjaar 2\Periode 1\C#\Aftekenen\Afteken opdrachten\MemoryUi\obj\Debug\net7.0-windows\MemoryUi.pdb
+\\Mac\Home\Library\CloudStorage\OneDrive-WindesheimOffice365\ICT\Leerjaar 2\Periode 1\C#\Aftekenen\Afteken opdrachten\MemoryUi\obj\Debug\net7.0-windows\MemoryUi.genruntimeconfig.cache
+\\Mac\Home\Library\CloudStorage\OneDrive-WindesheimOffice365\ICT\Leerjaar 2\Periode 1\C#\Aftekenen\Afteken opdrachten\MemoryUi\obj\Debug\net7.0-windows\ref\MemoryUi.dll
